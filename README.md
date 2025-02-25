@@ -2,8 +2,9 @@
 A Brick Breaker-like game developed in Code.org AppLab.
 
 # How to Play #
-Go to the link below to play the game. (This is the recommended way to run the app, as using the HTML files may cause bugs.)
+1. Go to the link below to play the game. (This is the recommended way to run the app, as using the HTML files may cause bugs.)
 https://studio.code.org/projects/applab/Igt5rNJAZXWXivoRmj-ZgV4EkAAytB1AlCf2EOPwr58
+2. You can also download all the files here and open the `index.html` file in a browser to play the game (which will result in some bugs.)
 
 # Files #
 * `applab/applab.js` - This file contains the App Lab library, which has all the
