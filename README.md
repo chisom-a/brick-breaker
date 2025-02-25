@@ -7,6 +7,7 @@ https://studio.code.org/projects/applab/Igt5rNJAZXWXivoRmj-ZgV4EkAAytB1AlCf2EOPw
 2. You can also download all the files here and open the `index.html` file in a browser to play the game (which will result in some bugs.)
 
 # Files #
+From Code.org "Exported to Web" Option:
 * `applab/applab.js` - This file contains the App Lab library, which has all the
   javascript that applab uses to run the app.
 * `applab/applab.css` - This file contains some default CSS styling for the app.
